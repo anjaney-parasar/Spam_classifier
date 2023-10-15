@@ -1,6 +1,8 @@
 numpy
 pandas
-pickle
+statsmodels
+scikit-learn==1.2.2
+Pillow
 streamlit
+joblib
 spacy
-scikit-learn
