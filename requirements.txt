@@ -6,3 +6,4 @@ Pillow
 streamlit
 joblib
 spacy
+spacy download en_core_web_sm
