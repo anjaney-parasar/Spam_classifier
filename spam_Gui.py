@@ -52,7 +52,7 @@ main()
 st.sidebar.markdown(''' * This model has been trained on a small collection of 5000 emails  
 * Try putting texts like "click here to win cash" or  
 "you have been selected for a 3000$ lottery" or a greeting  
-*Note** Since the dataset used is not large,  
+**Note** Since the dataset used is not large,  
 the predictions might not always be accurate''')
 
 
